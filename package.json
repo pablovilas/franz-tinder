@@ -1,0 +1,15 @@
+{
+    "id": "tinder",
+    "name": "Tinder",
+    "version": "1.0.0",
+    "description": "Tinder",
+    "main": "index.js",
+    "author": "Pablo Vilas <pablovilas89@gmail.com>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://tinder.com",
+      "hasNotificationSound": true,
+      "hasDirectMessages": true
+    }
+  }
+  
